@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Commlist>
+  <input_123>
+      <Server>PCoreService</Server>
+      <URL>http://192.168.17.183/fcgi-bin/</URL>
+      <Method>QueryLotteryAnnouncement</Method>
+      <GameID>65005</GameID>
+      <WagerIssue>2014061734</WagerIssue>
+  </input_123>
+  <output_123>
+      <Command>QueryLotteryAnnouncement</Command>
+      <ReturnCode>0000</ReturnCode>
+      <GameID>xxxxx</GameID>
+      <WagerIssue1>xxxx</WagerIssue1>
+      <SumSales>xxxx</SumSales>
+      <SumLocalSales>xxxx</SumLocalSales>
+      <GameName>xxxx</GameName>
+      <WinNum>xxxx</WinNum>
+      <WinLevel>{23,[1,五星直选奖,0,0,11600000],[2,四星直选一等奖,0,0,999900],[3,四星直选二等奖,0,0,7500],[4,三星直选奖,0,0,116000],[5,二星直选一等奖,0,0,10000],[6,二星直选二等奖,0,0,1600],[7,一星直选奖,0,7,1100],[8,大小单双,0,2,400],[9,二星组选,0,0,5800],[10,五星通选一等奖,0,0,3200000],[11,五星通选二等奖,0,0,22000],[12,五星通选三等奖,0,0,2000],[13,趣味二星一等奖,0,5,18000],[14,趣味二星二等奖,0,5,2000],[15,趣味二星三等奖,0,97,1200],[16,区间二星一等奖,0,1,50000],[17,区间二星二等奖,0,0,2000],[18,三星组三奖,0,0,38600],[19,三星组六奖,0,0,19200],[20,任选二星一等奖,0,0,8000],[21,任选二星二等奖,0,0,900],[22,任选三星一等奖,0,0,60000],[23,任选三星二等奖,0,0,2000]}</WinLevel>
+      <WinPool>xxxx</WinPool>
+  </output_123>
+</Commlist>

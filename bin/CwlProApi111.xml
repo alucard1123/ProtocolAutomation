@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Commlist>
+	<input_0112-C004>
+		<Address>/CwlProApi/rest/transaction/betting</Address>
+		<URL>http://192.168.17.181:10080</URL>
+		<AccountCode>100000010003</AccountCode>
+		<OrderId>123chenj</OrderId>
+		<access_token>57ad5abf-971a-44ea-9e72-adbf153c4819</access_token>
+		<GameID>1000000000000000012</GameID>
+		<WagerIssue>2014</WagerIssue>
+		<Amount>20</Amount>
+		<VIP>630708225678</VIP>
+		<BetData>1;1;2;1;01|02|03|04|05|06|-12|-</BetData>
+			</input_0112-C004>
+	<output_0112-C004>
+		<Command>QueryBetDetail</Command>
+		<ReturnCode>00000</ReturnCode>
+		<ReturnErrorMsg>XXX</ReturnErrorMsg>
+		<TotalCount>128</TotalCount>
+		<ResData></ResData>
+		<BetTime>2012-04-05</BetTime>
+		<LotteryType>2</LotteryType>
+		<Agencyid>1234</Agencyid>
+		<OrderNumber>12345</OrderNumber>
+		<BetData>1;1;2;1;01|02|03|04|05|06|-12|-</BetData>
+			</output_0112-C004>
+</Commlist>

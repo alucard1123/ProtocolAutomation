@@ -1,0 +1,1 @@
+http://192.168.17.183/fcgi-bin/PCoreService.fcg?Method=QueryLotteryAnnouncement&GameID=65005&WagerIssue=2014061734

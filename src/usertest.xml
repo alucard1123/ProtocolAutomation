@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Commlist>
+  <input_0112-C0003>
+      <Server>PCoreService</Server>
+      <Method>Register</Method>
+      <URL>http://192.168.17.181/fcgi-bin/</URL>
+      <Password>213213</Password>
+      <MobilePhone>18610823633</MobilePhone>
+      <CertType>1</CertType>
+      <IDNumber>620502197604013000</IDNumber>
+      <TrueName>王杰</TrueName>
+      <Email>Alx19760555@163.com</Email>
+      <Area>China</Area>
+  </input_0112-C0003>
+  <output_0112-C0003>
+      <Command>Register</Command>
+      <ReturnCode>0</ReturnCode>
+      <UID>00001</UID>
+  </output_0112-C0003>
+	<input_0112-C004>
+		<Server>PCoreService</Server>
+		<Method>Login</Method>
+		<URL>http://192.168.17.181/fcgi-bin/</URL>
+		<LoginMode>1</LoginMode>
+		<AccountCode>1000000000000000012</AccountCode>
+		<UID>100000000001</UID>
+			</input_0112-C004>
+	<output_0112-C004>
+		<Command>CreateSubAccount</Command>
+		<ReturnCode>00000</ReturnCode>
+			</output_0112-C004>
+</Commlist>
