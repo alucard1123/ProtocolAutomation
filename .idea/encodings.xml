@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
-    <file url="file://$PROJECT_DIR$/log/201462012550Report.txt" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/log/201462310135Report.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/log/2014623172956Report.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Business/AutoTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Business/Run.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/FuntionBufferMemory/GetParameter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/FuntionCommandResolve/ResultSolve.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/FuntionReport/jxlexcel.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/FuntionTestCaseLib/readfilename.java" charset="GBK" />
   </component>

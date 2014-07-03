@@ -5,7 +5,6 @@ package FuntionCommandResolve;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Set;
-//import java.util.Map.Entry;
 
 import FuntionReport.WriteReport;
 
@@ -25,6 +24,7 @@ public class ResultSolve
 		{
 			if(receiveMap.containsKey(key.trim()))
 			{
+
 				System.out.println("CHENJIE:key:"+key);
 				System.out.println("CHENJIE:receiveMap.containsKey(key.trim()):"+receiveMap.containsKey(key.trim()));
 				if(receiveMap.get(key).trim()!=null&&
@@ -94,39 +94,7 @@ public class ResultSolve
 			 
 			
 		}
-		/*
-		
-		for(Entry<String, Boolean> entry: mapResult.entrySet())
-		{
-			if(entry.getValue()==false)
-			{
 
-				LogReport.writeLog(LogReport.getReportNameString(),
-						"****************************************************"+"\r\n");	
-
-				LogReport.writeLog(LogReport.getReportNameString(),
-						"&&步骤ID："+(stepID+1)+";&&失败步骤名："
-						+entry.getKey()+";&&步骤结果："+entry.getValue()+"\r\n");	
-
-				LogReport.writeLog(LogReport.getReportNameString(),
-						"****************************************************"+"\r\n");	
-			}
-			else
-			{
-
-				LogReport.writeLog(LogReport.getReportNameString(),
-						"****************************************************"+"\r\n");	
-	
-				LogReport.writeLog(LogReport.getReportNameString(),
-						"&&步骤ID："+(stepID+1)+";&&步骤名："+entry.getKey()+
-						";&&步骤结果："+entry.getValue()+"\r\n");	
-
-				LogReport.writeLog(LogReport.getReportNameString(),
-						"****************************************************"+"\r\n");	
-			}
-			stepID++;
-		}
-		*/
 		if(mapResult.containsValue(false)||mapResult.containsValue(null)||mapResult.size()==0)
 		{
 

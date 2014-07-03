@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Commlist>
+  <input_2112-001>
+      <Server>PCoreService</Server>
+      <URL>http://192.168.17.183/fcgi-bin/</URL>
+      <Method>QuerySubAcct</Method>
+      <UID>100000000001165</UID>
+      <AgentID>0</AgentID>
+  </input_2112-001>
+  <output_2112-001>
+      <Command>QuerySubAcct</Command>
+      <ReturnCode>00000</ReturnCode>
+      <AccountCode>XXXX</AccountCode>
+      <AccountType>XXXX</AccountType>
+      <Balance>0</Balance>
+      <Prize>0</Prize>
+      <FreezeAmt>0</FreezeAmt>
+      <Bonus>0</Bonus>
+      <Status>0</Status>
+      <BindTime>XXXX</BindTime>
+      <ViceAcctArray></ViceAcctArray>
+      <AgentID1>XXXX</AgentID1>
+      <Lbalance>XXXX</Lbalance>
+      <Sbalance>XXXX</Sbalance>
+  </output_2112-001>
+</Commlist>

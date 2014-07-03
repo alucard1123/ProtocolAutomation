@@ -1,1 +1,0 @@
-*****期望应答消息为:{"Command"："QueryLotteryAnnouncement"、"ReturnCode"："0000"、"GameID"："xxxxx"、"WagerIssue1"："xxxx"、"SumSales"："xxxx"、"SumLocalSales"："xxxx"、"GameName"："xxxx"、"WinNum"："xxxx"、"WinLevel"："xxxx"、"WinPool"："xxxx"}

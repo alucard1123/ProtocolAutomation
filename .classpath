@@ -9,9 +9,9 @@
 	<classpathentry kind="lib" path="reference/httpclient-4.0.1.jar"/>
 	<classpathentry kind="lib" path="reference/httpcore-4.0.1.jar"/>
 	<classpathentry kind="lib" path="reference/httpmime-4.0.1.jar"/>
-	<classpathentry kind="lib" path="D:/work/JAVA/AutoTestFremwork - backups/reference/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="D:/work/JAVA/AutoTestFremwork - backups/reference/json_simple-1.1.jar"/>
-	<classpathentry kind="lib" path="D:/work/JAVA/AutoTestFremwork - backups/reference/jxl.jar"/>
-	<classpathentry kind="lib" path="D:/work/JAVA/AutoTestFremwork - backups/reference/fastjson-1.1.8.jar"/>
+	<classpathentry kind="lib" path="F:/JavaSource/AutoTestFramework/reference/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="F:/JavaSource/AutoTestFramework/reference/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/JavaSource/AutoTestFramework/reference/jxl.jar"/>
+	<classpathentry kind="lib" path="F:/JavaSource/AutoTestFramework/reference/fastjson-1.1.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
