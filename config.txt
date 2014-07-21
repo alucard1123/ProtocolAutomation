@@ -1,0 +1,4 @@
+DBIP:192.168.17.183
+DBSID:prodb
+DBU:tuxrman
+DBP:tuxrman

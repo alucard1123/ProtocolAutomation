@@ -4,7 +4,7 @@
       <Server>PCoreService</Server>
       <URL>http://192.168.17.183/fcgi-bin/</URL>
       <Method>QuerySubAcct</Method>
-      <UID>100000000001165</UID>
+      <UID>{uid:@1}</UID>
       <AgentID>0</AgentID>
   </input_2112-001>
   <output_2112-001>

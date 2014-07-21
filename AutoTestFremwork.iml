@@ -123,6 +123,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="ojdbc14" level="application" />
   </component>
 </module>
 

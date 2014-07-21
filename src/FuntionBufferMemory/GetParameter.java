@@ -11,6 +11,7 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 
+import Expression_Plugin.TransExpression;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -81,12 +82,15 @@ public class GetParameter implements IGetParameter
 							 {
 								 valueString=record.getTextContent().trim();
 							 }
+                             //wuyg update here , add expression function
+                             if(valueString.matches("\\{[^}]*\\}")){
+                                 System.out.println(">>>wuyg debug:run expression module");
+                                 TransExpression te = new TransExpression();
+                                 valueString = te.Trans(valueString);
+                             }
 							 mapInput.put(record.getNodeName().trim(), valueString);
 							 System.out.print("Input::K:"+record.getNodeName().trim()+";value:"+valueString+"\n");
 
-
-							 
-	
 						 }
 						 
 					 }

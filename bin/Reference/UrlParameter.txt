@@ -1,1 +1,1 @@
-http://192.168.17.183/fcgi-bin/PCoreService.fcg?Method=QuerySubAcct&UID=100000000001165&AgentID=0
+http://192.168.17.183/fcgi-bin/PCoreService.fcg?Method=QuerySubAcct&UID=100000000000168&AgentID=0

@@ -1,6 +1,6 @@
 inputStr:input_2112-001
 TableName:CwlProAp2111查询子账户
-实际发送命令!!!：http://192.168.17.183/fcgi-bin/PCoreService.fcg?Method=QuerySubAcct&UID=100000000001165&AgentID=0
+实际发送命令!!!：http://192.168.17.183/fcgi-bin/PCoreService.fcg?Method=QuerySubAcct&UID=100000000000168&AgentID=0
 ****************************************************
 用例ID:0;用例名:2112-001;所属模块:CwlProAp2111查询子账户
 ****************************************************
